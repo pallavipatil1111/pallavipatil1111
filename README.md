@@ -1,6 +1,6 @@
 # Hi, I'm Pallavi Patil 👋
 
-**Java & Python developer** from Pune, India · B.Tech Computer Science & Engineering (2026), Ajeenkya D Y Patil University
+**Full-stack developer** from Pune, India · B.Tech Computer Science & Engineering (2026), Ajeenkya D Y Patil University
 
 I build back ends with **Spring Boot, Flask and FastAPI**, design **SQL** databases, add **AI features** (RAG, embeddings, text matching), and test my projects end to end with **JUnit, pytest, Playwright and Cypress**, all run automatically in **GitHub Actions**.
 
